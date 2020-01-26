@@ -108,7 +108,7 @@
     "underscore": "~1.8.3",
     "xolvio-ddp": "^0.12.0",
     "xolvio-jasmine-expect": "^1.0.0",
-    "xolvio-sync-webdriverio": "git+ssh://github.com:TheBrainFamily/sync-webdriverio#bump-fibers-version"
+    "xolvio-sync-webdriverio": "mahmost/sync-webdriverio#bump-fibers-version"
   },
   "devDependencies": {
     "@babel/cli": "^7.8.3",
